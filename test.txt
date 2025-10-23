@@ -1,0 +1,6 @@
+. Requirements Gathering	Collect features like event creation, student registration, reminders, approval workflows.
+2. System Design	Create ER diagrams (Events, Users, Registrations), UI wireframes (event list, details page), and system architecture.
+3. Implementation	Develop backend (Node.js / Django), frontend (React / HTML), and database (MySQL / Firebase).
+4. Testing	Test functionalities like event creation, user registration, and notifications. Use unit and integration testing.
+5. Deployment	Host the app on a cloud platform (e.g., Heroku, Firebase), make it available to students and staff.
+6. Maintenance	Monitor system performance, fix bugs, and update features based on user feedback.
